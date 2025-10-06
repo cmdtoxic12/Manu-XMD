@@ -1,4 +1,4 @@
-# 🤖 Manu-MD WA Bot V7 ( With Full Buttons )  💗
+# 🤖 Manu-MD WA Bot V7 ( With Full Buttons ) 💗
 
 ## Manu-MD Bot යනු සම්පූර්ණ බටන් රොබෝ කෙනෙකි...❤
 
@@ -41,21 +41,8 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 ### Pair Webs 🔢
 <br>
 <div align="center">
-  <a href="https://manu-md-session-gen.up.railway.app/pair">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://used-harlene-manul-abb63bcc.koyeb.app/pair">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Pair Code 2"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://manu-md-session-gen.onrender.com/pair">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web3-success?style=for-the-badge" alt="Get Your Pair Code 3"/>
+  <a href="https://psb-7c0e25125b5f.herokuapp.com/pair">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web 1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
   </a>
 </div>
 
@@ -64,21 +51,8 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 ### Qr Webs 🖨
 <br>
 <div align="center">
-  <a href="https://manu-md-session-gen.up.railway.app/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://used-harlene-manul-abb63bcc.koyeb.app/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Qr Code 2"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://manu-md-session-gen.onrender.com/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web3-success?style=for-the-badge" alt="Get Your Qr Code 3"/>
+  <a href="https://psb-7c0e25125b5f.herokuapp.com/qr">
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web 1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
   </a>
 </div>
 
